@@ -10,3 +10,4 @@ $route['fetch'] = 'welcome/fetch';
 $route['delete'] = 'welcome/delete';
 $route['edit'] = 'welcome/edit';
 $route['update'] = 'welcome/update';
+$route['validate_entry'] = 'welcome/validate_entry';
